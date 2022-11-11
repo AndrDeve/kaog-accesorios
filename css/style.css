@@ -1269,7 +1269,7 @@ body .copy span .span {
     width: 32%;
   }
   .titulos {
-    padding: 0;
+    padding: 1rem 0;
   }
   .titulos .container-nosotros .textos-nosotros p {
     width: 90%;
