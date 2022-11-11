@@ -25,7 +25,7 @@ html::-webkit-scrollbar-track {
   background: #ffffff;
 }
 html::-webkit-scrollbar-thumb {
-  background: #262f1e;
+  background: #3d764b;
 }
 
 body {
@@ -105,7 +105,7 @@ body {
   left: 0;
   z-index: 4000;
   background-color: #ffffff;
-  color: #262f1e;
+  color: #3d764b;
   border-bottom: 1px solid #c39e2e;
 }
 
@@ -128,7 +128,7 @@ body {
   padding: 0 0.2rem;
 }
 .menu__container .logos-redes-sociales a {
-  color: #262f1e;
+  color: #3d764b;
 }
 .menu__container .logos-redes-sociales a:hover {
   transform: scale(1.05);
@@ -156,7 +156,7 @@ body {
 }
 
 .menu__link {
-  color: #262f1e;
+  color: #3d764b;
   text-decoration: none;
   padding: 0 20px 0 20px;
   display: flex;
@@ -198,7 +198,7 @@ body {
 }
 
 .menu__link--inside:hover {
-  background-color: #262f1e;
+  background-color: #3d764b;
   color: #ffffff;
 }
 
@@ -283,7 +283,7 @@ body {
   -o-border-radius: 50%;
 }
 .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #262f1e;
+  background: #3d764b;
 }
 
 .informacion {
@@ -314,7 +314,7 @@ body {
   width: 100%;
   margin-top: 0.6rem;
   font-size: 1.5rem;
-  color: #262f1e;
+  color: #3d764b;
 }
 
 .titulos {
@@ -323,26 +323,12 @@ body {
   height: 100%;
 }
 .titulos .contenedor-titulos {
-  position: relative;
-  display: inline-block;
   text-align: center;
-  display: flex;
-  justify-content: center;
-}
-.titulos .contenedor-titulos img {
-  height: 8rem;
-  width: 40rem;
-}
-.titulos .contenedor-titulos .texto {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
 }
 .titulos .contenedor-titulos .texto h2 {
-  color: #262f1e;
-  font-size: 2.7rem;
+  margin: 2rem 0 1rem 0;
+  color: #3d764b;
+  font-size: 2.8rem;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
@@ -404,33 +390,19 @@ body {
 .titulos .container-mision-vision .item-mision-vision p {
   font-size: 1.8rem;
   margin-top: 0.5rem;
-  color: #262f1e;
+  color: #3d764b;
 }
 
 .titulos2 {
   padding-top: 0.8rem;
 }
 .titulos2 .contenedor-titulos {
-  position: relative;
-  display: inline-block;
   text-align: center;
-  display: flex;
-  justify-content: center;
-}
-.titulos2 .contenedor-titulos img {
-  height: 8rem;
-  width: 42rem;
-}
-.titulos2 .contenedor-titulos .texto {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
 }
 .titulos2 .contenedor-titulos .texto h2 {
-  color: #262f1e;
-  font-size: 2.7rem;
+  margin: 2rem 0 1rem 0;
+  color: #3d764b;
+  font-size: 2.8rem;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
@@ -458,7 +430,7 @@ body {
 .swiper-slide .img__item .contenido-img-item h3 {
   font-size: 1.8rem;
   margin-bottom: 1rem;
-  color: #262f1e;
+  color: #3d764b;
   font-weight: 500;
 }
 .swiper-slide .img__item .contenido-img-item span {
@@ -525,26 +497,12 @@ html .img__item:hover .container__item__hover {
   padding: 1rem 0;
 }
 .titulos3 .contenedor-titulos {
-  position: relative;
-  display: inline-block;
   text-align: center;
-  display: flex;
-  justify-content: center;
-}
-.titulos3 .contenedor-titulos img {
-  height: 8rem;
-  width: 40rem;
-}
-.titulos3 .contenedor-titulos .texto {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
 }
 .titulos3 .contenedor-titulos .texto h2 {
-  color: #262f1e;
-  font-size: 2.7rem;
+  margin: 2rem 0 1rem 0;
+  color: #3d764b;
+  font-size: 2.8rem;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
@@ -583,7 +541,7 @@ html .img__item:hover .container__item__hover {
   cursor: pointer;
 }
 .titulos3 .categoria .item-categoria .texto-categoria:hover {
-  background: #262f1e;
+  background: #3d764b;
 }
 .titulos3 .categoria .item-categoria .texto-categoria h3 {
   color: #ffffff;
@@ -602,26 +560,12 @@ html .img__item:hover .container__item__hover {
   padding: 0.8rem 3%;
 }
 .titulos4 .contenedor-titulos {
-  position: relative;
-  display: inline-block;
   text-align: center;
-  display: flex;
-  justify-content: center;
-}
-.titulos4 .contenedor-titulos img {
-  height: 8rem;
-  width: 40rem;
-}
-.titulos4 .contenedor-titulos .texto {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
 }
 .titulos4 .contenedor-titulos .texto h2 {
-  color: #262f1e;
-  font-size: 2.7rem;
+  margin: 2rem 0 1rem 0;
+  color: #3d764b;
+  font-size: 2.8rem;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
@@ -717,7 +661,7 @@ html .img__item:hover .container__item__hover {
   margin: 3rem 0 0 0;
 }
 .footer .container-footer hr {
-  border: 1px solid #262f1e;
+  border: 1px solid #3d764b;
   width: 100%;
   margin: 0.5rem 0 1rem;
 }
@@ -730,12 +674,12 @@ html .img__item:hover .container__item__hover {
 .footer .container-footer .logo h3 {
   font-size: 2.5rem;
   font-family: "Poppins", sans-serif;
-  color: #262f1e;
+  color: #3d764b;
   font-weight: 300;
 }
 .footer .container-footer .logo p {
   font-size: 1.6rem;
-  color: #262f1e;
+  color: #3d764b;
   margin-bottom: 1.5rem;
 }
 .footer .container-footer .links {
@@ -747,7 +691,7 @@ html .img__item:hover .container__item__hover {
 .footer .container-footer .links h3 {
   font-size: 2.5rem;
   font-family: "Poppins", sans-serif;
-  color: #262f1e;
+  color: #3d764b;
   font-weight: 300;
 }
 .footer .container-footer .links a {
@@ -755,7 +699,7 @@ html .img__item:hover .container__item__hover {
   margin-bottom: 1.5rem;
 }
 .footer .container-footer .links a:hover {
-  color: #262f1e;
+  color: #3d764b;
 }
 .footer .container-footer .horarios {
   display: flex;
@@ -766,7 +710,7 @@ html .img__item:hover .container__item__hover {
 .footer .container-footer .horarios h3 {
   font-size: 2.5rem;
   font-family: "Poppins", sans-serif;
-  color: #262f1e;
+  color: #3d764b;
   font-weight: 300;
 }
 .footer .container-footer .horarios span {
@@ -782,7 +726,7 @@ html .img__item:hover .container__item__hover {
 .footer .container-footer .contactanos h3 {
   font-size: 2.5rem;
   font-family: "Poppins", sans-serif;
-  color: #262f1e;
+  color: #3d764b;
   font-weight: 300;
 }
 .footer .container-footer .contactanos a {
@@ -790,7 +734,7 @@ html .img__item:hover .container__item__hover {
   margin-bottom: 1.5rem;
 }
 .footer .container-footer .contactanos a:hover {
-  color: #262f1e;
+  color: #3d764b;
 }
 
 body .copy {
@@ -798,7 +742,7 @@ body .copy {
   text-align: center;
   background: #f2eff5;
   width: 100%;
-  color: #262f1e;
+  color: #3d764b;
 }
 body .copy span {
   font-size: 1.7rem;
@@ -811,26 +755,12 @@ body .copy span .span {
   padding: 12rem 0 0 0;
 }
 .contactos .contenedor-titulos {
-  position: relative;
-  display: inline-block;
   text-align: center;
-  display: flex;
-  justify-content: center;
-}
-.contactos .contenedor-titulos img {
-  height: 8rem;
-  width: 40rem;
-}
-.contactos .contenedor-titulos .texto {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
 }
 .contactos .contenedor-titulos .texto h2 {
-  color: #262f1e;
-  font-size: 2.7rem;
+  margin: 2rem 0 1rem 0;
+  color: #3d764b;
+  font-size: 2.8rem;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
@@ -848,12 +778,12 @@ body .copy span .span {
 .contactos .datos-contactos .horarios h3 {
   font-size: 2.4rem;
   margin-bottom: 0.5rem;
-  color: #262f1e;
+  color: #3d764b;
 }
 .contactos .datos-contactos .horarios span {
   margin-top: 0.5rem;
   font-size: 1.9rem;
-  color: #262f1e;
+  color: #3d764b;
 }
 .contactos .datos-contactos .contacto {
   display: flex;
@@ -862,12 +792,12 @@ body .copy span .span {
 .contactos .datos-contactos .contacto h3 {
   font-size: 2.4rem;
   margin-bottom: 0.5rem;
-  color: #262f1e;
+  color: #3d764b;
 }
 .contactos .datos-contactos .contacto span {
   margin-top: 0.5rem;
   font-size: 1.9rem;
-  color: #262f1e;
+  color: #3d764b;
 }
 .contactos .dudas .texto-dudas {
   padding: 0 0 5rem 0;
@@ -879,12 +809,12 @@ body .copy span .span {
 .contactos .dudas .texto-dudas h3 {
   font-size: 2.4rem;
   margin-bottom: 0.5rem;
-  color: #262f1e;
+  color: #3d764b;
 }
 .contactos .dudas .texto-dudas span {
   margin-top: 0.5rem;
   font-size: 1.9rem;
-  color: #262f1e;
+  color: #3d764b;
   width: 65%;
   margin: 0 auto;
 }
@@ -932,7 +862,7 @@ body .copy span .span {
 .titulos-catalogo .container-catalogo .category_list p {
   font-size: 2.3rem;
   color: #444444;
-  border-bottom: 1.2px solid #262f1e;
+  border-bottom: 1.2px solid #3d764b;
   margin-bottom: 3rem;
   padding: 1rem 0;
   font-weight: 500;
@@ -1277,7 +1207,7 @@ body .copy span .span {
     width: 90%;
   }
   .titulos2 {
-    padding: 2.2rem 0;
+    padding: 0 0 2rem 0;
   }
   .titulos3 {
     padding: 0.2rem 0 2rem;
@@ -1317,6 +1247,9 @@ body .copy span .span {
   .titulos4 .contenedor-siguenos .imagenes-siguenos img {
     height: 35rem;
     width: 35rem;
+  }
+  .titulos4 .contenedor-titulos .texto h2 {
+    margin: 1rem 0 0 0;
   }
   .footer .container-footer {
     flex-direction: column;
