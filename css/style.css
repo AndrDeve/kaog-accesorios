@@ -399,6 +399,7 @@ body {
 .titulos .container-mision-vision .item-mision-vision h4 {
   font-size: 2.2rem;
   color: #c39e2e;
+  font-weight: 500;
 }
 .titulos .container-mision-vision .item-mision-vision p {
   font-size: 1.8rem;
