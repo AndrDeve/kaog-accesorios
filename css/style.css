@@ -358,6 +358,7 @@ body {
   font-size: 2rem;
   font-weight: 300;
   line-height: 3rem;
+  color: #2d5a38;
 }
 .titulos .container-nosotros .imagen-nosotros {
   width: 50%;
@@ -368,18 +369,19 @@ body {
   -o-object-fit: cover;
      object-fit: cover;
 }
+.titulos .mision {
+  background: #F6F3EF;
+  margin: 0 6%;
+}
 .titulos .container-mision-vision {
   display: flex;
   justify-content: space-between;
-  padding: 0 6%;
   text-align: center;
-  margin-top: 3rem;
 }
 .titulos .container-mision-vision .item-mision-vision {
   text-align: center;
-  border: 1px solid #c39e2e;
   width: 40%;
-  padding: 3rem 2rem;
+  padding: 0 2rem 1rem 2rem;
   flex-wrap: wrap;
 }
 .titulos .container-mision-vision .item-mision-vision h4 {
@@ -388,9 +390,11 @@ body {
   font-weight: 500;
 }
 .titulos .container-mision-vision .item-mision-vision p {
-  font-size: 1.8rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 3rem;
   margin-top: 0.5rem;
-  color: #3d764b;
+  color: #2d5a38;
 }
 
 .titulos2 {
@@ -679,7 +683,7 @@ html .img__item:hover .container__item__hover {
 }
 .footer .container-footer .logo p {
   font-size: 1.6rem;
-  color: #3d764b;
+  color: #333333;
   margin-bottom: 1.5rem;
 }
 .footer .container-footer .links {
@@ -1313,7 +1317,10 @@ body .copy span .span {
     width: 34rem;
   }
   .titulos .container-nosotros {
-    padding: 0 3%;
+    padding: 0 6%;
+  }
+  .mision {
+    margin: 0;
   }
 }
 @media (max-width: 550px) {

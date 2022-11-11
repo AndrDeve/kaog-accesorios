@@ -15,6 +15,7 @@
 $dorado:#c39e2e;
 $verde:#3d764b;
 $verde-claro:#54582f;
+$verde-textos:#2d5a38;
 
 
 html{
@@ -384,6 +385,7 @@ body{
                 font-size: 2rem;
                 font-weight: 300;
                 line-height: 3rem;
+                color: $verde-textos;
             }
         }
 
@@ -398,19 +400,22 @@ body{
         }
     }
     // mision vision
+    .mision{
+        background: #F6F3EF;
+        margin: 0 6%;
+    }
+
     .container-mision-vision{
         display: flex;
         justify-content: space-between;
-        padding: 0 6%;
         text-align: center;
-        margin-top: 3rem;
+        // margin-top: 3rem;
 
         .item-mision-vision{
             text-align: center;
-            border: 1px solid $dorado;
             width: 40%;
             // margin: 0 5rem;
-            padding: 3rem 2rem;
+            padding: 0 2rem 1rem 2rem;
             flex-wrap: wrap;
 
             h4{
@@ -420,9 +425,11 @@ body{
             }
 
             p{
-                font-size: 1.8rem;
+                font-size: 2rem;
+                font-weight: 300;
+                line-height: 3rem;
                 margin-top: 0.5rem;
-                color: $verde;
+                color: $verde-textos;
             }
         }
     }
@@ -778,7 +785,7 @@ html .img__item:hover .container__item__hover{
 
         p{
             font-size: 1.6rem;
-            color: $verde;
+            color: #333333;
             margin-bottom: 1.5rem;
         }
     }
@@ -1638,7 +1645,11 @@ body .copy{
 
 
       .titulos .container-nosotros{
-        padding: 0 3%;
+        padding: 0 6%;
+      }
+
+      .mision{
+        margin: 0 ;
       }
 }
 
