@@ -341,8 +341,8 @@ body {
 .titulos .container-nosotros img {
   height: 20rem;
   width: 20rem;
-  -o-object-fit: cover;
-     object-fit: cover;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 .titulos .container-nosotros .textos-nosotros {
   width: 50%;
