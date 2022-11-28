@@ -467,6 +467,7 @@ body{
     .swiper-wrapper .img__item .gg{
         position: relative;
         overflow: hidden;
+        width: 100%;
     }
 }
 
@@ -1717,6 +1718,10 @@ body .copy{
             margin: 0 0 1.5rem 0;
         }
     }
+
+    .swiper2 .container__item__hover{
+        width: 17rem;
+    }
 }
 
 
@@ -1749,6 +1754,7 @@ body .copy{
 
     .swiper2 .container__item__hover{
         height: 4rem;
+        width: 20rem;
       }
       
       .swiper2 .container__item__hover a{

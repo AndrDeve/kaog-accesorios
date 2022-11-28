@@ -422,6 +422,7 @@ body {
 .swiper2 .swiper-wrapper .img__item .gg {
   position: relative;
   overflow: hidden;
+  width: 100%;
 }
 
 .swiper-slide {
@@ -1367,6 +1368,9 @@ body .copy span .span {
   .titulos .container-mision-vision .mision {
     margin: 0 0 1.5rem 0;
   }
+  .swiper2 .container__item__hover {
+    width: 17rem;
+  }
 }
 @media (max-width: 450px) {
   html {
@@ -1390,6 +1394,7 @@ body .copy span .span {
   }
   .swiper2 .container__item__hover {
     height: 4rem;
+    width: 20rem;
   }
   .swiper2 .container__item__hover a {
     font-size: 1rem;
