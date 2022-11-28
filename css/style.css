@@ -1307,6 +1307,9 @@ body .copy span .span {
   .titulos .container-mision-vision .item-mision-vision {
     width: 48%;
   }
+  .swiper2 .container__item__hover {
+    width: 18rem;
+  }
 }
 @media (max-width: 620px) {
   .productos .contenedor-productos .items-imagenes {
