@@ -1017,16 +1017,6 @@ body .copy span .span {
     padding: 1rem 0;
     font-size: 2rem;
   }
-  .titulos4 .contenedor-siguenos {
-    display: flex;
-    flex-direction: column;
-  }
-  .titulos4 .contenedor-siguenos .items-siguenos {
-    margin: 0.8rem 0;
-  }
-  .titulos4 .contenedor-siguenos .items-siguenos a {
-    font-size: 2rem;
-  }
 }
 @media screen and (max-width: 600px) {
   .container-catalogo .wrap .store-wrapper .products-list {
@@ -1215,7 +1205,17 @@ body .copy span .span {
     width: 35rem;
   }
   .titulos4 .contenedor-titulos .texto h2 {
-    margin: 1rem 0 0 0;
+    margin: 1rem 0 1rem 0;
+  }
+  .titulos4 .contenedor-siguenos {
+    display: flex;
+    flex-direction: column;
+  }
+  .titulos4 .contenedor-siguenos .items-siguenos {
+    margin: 0.8rem 0;
+  }
+  .titulos4 .contenedor-siguenos .items-siguenos a {
+    font-size: 2rem;
   }
   .footer .container-footer {
     flex-direction: column;
