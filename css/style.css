@@ -511,9 +511,6 @@ html .img__item:hover .container__item__hover {
   font-size: 1.8rem;
 }
 
-.titulos4 {
-  padding: 0.8rem 3%;
-}
 .titulos4 .contenedor-titulos {
   text-align: center;
 }
@@ -525,6 +522,9 @@ html .img__item:hover .container__item__hover {
   font-weight: 500;
 }
 
+.titulos4 {
+  padding: 0 6%;
+}
 .titulos4 .link-instagram {
   display: flex;
   justify-content: center;
@@ -538,33 +538,34 @@ html .img__item:hover .container__item__hover {
   transform: scale(1.05);
 }
 .titulos4 .contenedor-siguenos {
-  margin-top: 3rem;
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
-}
-.titulos4 .contenedor-siguenos .imagenes-siguenos {
-  margin: 0 auto;
   align-items: center;
-  position: relative;
-  overflow: hidden;
 }
-.titulos4 .contenedor-siguenos .imagenes-siguenos:hover {
-  transform: scale(1.02);
+.titulos4 .contenedor-siguenos .items-siguenos {
+  margin: 1rem 0 3rem 0;
+  display: flex;
+  align-items: center;
 }
-.titulos4 .contenedor-siguenos .imagenes-siguenos .projects__img {
-  -o-object-fit: cover;
-     object-fit: cover;
-  border-radius: 3px;
-  cursor: pointer;
-  overflow: hidden;
+.titulos4 .contenedor-siguenos .items-siguenos span {
+  font-size: 3.5rem;
 }
-.titulos4 .contenedor-siguenos .imagenes-siguenos img {
-  height: 40rem;
-  width: 35rem;
-  -o-object-fit: cover;
-     object-fit: cover;
-  margin-bottom: 3rem;
+.titulos4 .contenedor-siguenos .items-siguenos .bxl-instagram {
+  color: rgb(164, 57, 30);
+}
+.titulos4 .contenedor-siguenos .items-siguenos .bxl-facebook {
+  color: rgb(9, 9, 197);
+}
+.titulos4 .contenedor-siguenos .items-siguenos .bxl-whatsapp {
+  color: rgb(25, 147, 25);
+}
+.titulos4 .contenedor-siguenos .items-siguenos a {
+  font-size: 2.2rem;
+  color: #54582f;
+  letter-spacing: 0.1rem;
+}
+.titulos4 .contenedor-siguenos .items-siguenos a:hover {
+  transform: scale(1.01);
 }
 
 .imagen-light {
@@ -1014,6 +1015,16 @@ body .copy span .span {
   .container-catalogo .wrap .store-wrapper .category_list a {
     border-bottom: 0.1rem solid #c39e2e;
     padding: 1rem 0;
+    font-size: 2rem;
+  }
+  .titulos4 .contenedor-siguenos {
+    display: flex;
+    flex-direction: column;
+  }
+  .titulos4 .contenedor-siguenos .items-siguenos {
+    margin: 0.8rem 0;
+  }
+  .titulos4 .contenedor-siguenos .items-siguenos a {
     font-size: 2rem;
   }
 }
