@@ -572,8 +572,8 @@ html .img__item:hover .container__item__hover{
             }
 
             .img{
-                height:22rem;
-                width:37rem;
+                height:25rem;
+                width:50rem;
             }
 
             .texto-categoria{
@@ -595,6 +595,7 @@ html .img__item:hover .container__item__hover{
                     letter-spacing: .5rem;
                     font-weight: 500;
                     border: 1px solid #ffffff;
+                    text-align: center;
 
                     &:hover{
                         font-size: 1.8rem;

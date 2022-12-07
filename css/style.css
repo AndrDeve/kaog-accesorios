@@ -485,8 +485,8 @@ html .img__item:hover .container__item__hover {
   border: 3px solid #c39e2e;
 }
 .titulos3 .categoria .item-categoria .img {
-  height: 22rem;
-  width: 37rem;
+  height: 25rem;
+  width: 50rem;
 }
 .titulos3 .categoria .item-categoria .texto-categoria {
   position: absolute;
@@ -506,6 +506,7 @@ html .img__item:hover .container__item__hover {
   letter-spacing: 0.5rem;
   font-weight: 500;
   border: 1px solid #ffffff;
+  text-align: center;
 }
 .titulos3 .categoria .item-categoria .texto-categoria h3:hover {
   font-size: 1.8rem;
