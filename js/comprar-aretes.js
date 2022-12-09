@@ -146,3 +146,28 @@ ${precio6}%0A%0A`;
 
 window.open(url);    
 });
+
+
+document.querySelector("#submit7").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref7 = document.querySelector("#ref7").textContent;
+let n7 = document.querySelector("#n7").textContent;
+let precio7 = document.querySelector("#precio7").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección aretes*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref7}%0A%0A
+*Nombre del producto:*%0D
+${n7}%0A%0A
+*Precio:*%0D
+${precio7}%0A%0A`;
+
+window.open(url);    
+});
