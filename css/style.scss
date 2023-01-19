@@ -1131,9 +1131,16 @@ body .copy{
     margin-top: 8rem;
     width: 100%;
 
+    .contenedor-titulos .subtitulo-texto p{
+        font-size: 2rem;
+        color: rgb(75, 75, 75);
+        letter-spacing: .2rem;
+    }
+
     .contenedor-productos{
         padding: 2rem 4% 2rem 4%;
         background: #F8F2FC;
+
 
         .items-imagenes{
             padding-top: 3rem;
