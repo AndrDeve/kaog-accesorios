@@ -196,4 +196,153 @@ ${precio8}%0A%0A`;
 
 window.open(url);    
 });
-    
+
+
+document.querySelector("#submit9").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref9 = document.querySelector("#ref9").textContent;
+let n9 = document.querySelector("#n9").textContent;
+let precio9 = document.querySelector("#precio9").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección aretes*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref9}%0A%0A
+*Nombre del producto:*%0D
+${n9}%0A%0A
+*Precio:*%0D
+${precio9}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit10").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref10 = document.querySelector("#ref10").textContent;
+let n10 = document.querySelector("#n10").textContent;
+let precio10 = document.querySelector("#precio10").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección aretes*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref10}%0A%0A
+*Nombre del producto:*%0D
+${n10}%0A%0A
+*Precio:*%0D
+${precio10}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit11").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref11 = document.querySelector("#ref11").textContent;
+let n11 = document.querySelector("#n11").textContent;
+let precio11 = document.querySelector("#precio11").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección aretes*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref11}%0A%0A
+*Nombre del producto:*%0D
+${n11}%0A%0A
+*Precio:*%0D
+${precio11}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit12").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref12 = document.querySelector("#ref12").textContent;
+let n12 = document.querySelector("#n12").textContent;
+let precio12 = document.querySelector("#precio12").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección aretes*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref12}%0A%0A
+*Nombre del producto:*%0D
+${n12}%0A%0A
+*Precio:*%0D
+${precio12}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit101").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref101 = document.querySelector("#ref101").textContent;
+let n101 = document.querySelector("#n101").textContent;
+let precio101 = document.querySelector("#precio101").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección aretes*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref101}%0A%0A
+*Nombre del producto:*%0D
+${n101}%0A%0A
+*Precio:*%0D
+${precio101}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit102").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref102 = document.querySelector("#ref102").textContent;
+let n102 = document.querySelector("#n102").textContent;
+let precio102 = document.querySelector("#precio102").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección aretes*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref102}%0A%0A
+*Nombre del producto:*%0D
+${n102}%0A%0A
+*Precio:*%0D
+${precio102}%0A%0A`;
+
+window.open(url);    
+});

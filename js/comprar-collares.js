@@ -47,3 +47,55 @@ ${precio26}%0A%0A`;
 
 window.open(url);    
 });
+
+
+document.querySelector("#submit27").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref27 = document.querySelector("#ref27").textContent;
+let n27 = document.querySelector("#n27").textContent;
+let precio27 = document.querySelector("#precio27").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección collares*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref27}%0A%0A
+*_Modelo referencial_*%0A%0A
+*Nombre del producto:*%0D
+${n27}%0A%0A
+*Precio:*%0D
+${precio27}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit28").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref28 = document.querySelector("#ref28").textContent;
+let n28 = document.querySelector("#n28").textContent;
+let precio28 = document.querySelector("#precio28").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a KAOG Accesorios_*%0A%0A
+*Sección collares*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref28}%0A%0A
+*_Modelo referencial_*%0A%0A
+*Nombre del producto:*%0D
+${n28}%0A%0A
+*Precio:*%0D
+${precio28}%0A%0A`;
+
+window.open(url);    
+});
