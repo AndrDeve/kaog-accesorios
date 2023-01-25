@@ -3,7 +3,7 @@ document.querySelector("#submit37").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref37 = document.querySelector("#ref37").textContent;
 let n37 = document.querySelector("#n37").textContent;
@@ -30,7 +30,7 @@ document.querySelector("#submit38").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref38 = document.querySelector("#ref38").textContent;
 let n38 = document.querySelector("#n38").textContent;
@@ -56,7 +56,7 @@ document.querySelector("#submit39").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref39 = document.querySelector("#ref39").textContent;
 let n39 = document.querySelector("#n39").textContent;
@@ -82,7 +82,7 @@ document.querySelector("#submit40").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref40 = document.querySelector("#ref40").textContent;
 let n40 = document.querySelector("#n40").textContent;
@@ -108,7 +108,7 @@ document.querySelector("#submit41").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref41 = document.querySelector("#ref41").textContent;
 let n41 = document.querySelector("#n41").textContent;
@@ -134,7 +134,7 @@ document.querySelector("#submit42").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref42 = document.querySelector("#ref42").textContent;
 let n42 = document.querySelector("#n42").textContent;
@@ -160,7 +160,7 @@ document.querySelector("#submit43").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref43 = document.querySelector("#ref43").textContent;
 let n43 = document.querySelector("#n43").textContent;
@@ -186,7 +186,7 @@ document.querySelector("#submit44").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref44 = document.querySelector("#ref44").textContent;
 let n44 = document.querySelector("#n44").textContent;
@@ -212,7 +212,7 @@ document.querySelector("#submit45").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref45 = document.querySelector("#ref45").textContent;
 let n45 = document.querySelector("#n45").textContent;
@@ -238,7 +238,7 @@ document.querySelector("#submit46").addEventListener("click", e => {
 e.preventDefault();
 
 //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-let telefono = "573172171691";
+let telefono = "593967414431";
 
 let ref46 = document.querySelector("#ref46").textContent;
 let n46 = document.querySelector("#n46").textContent;
